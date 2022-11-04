@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         
         print("Hello Git!")
         print("Test 2")
+        print("SourceTree push test3")
         
     }
 
